@@ -2736,13 +2736,13 @@
     "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.5",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Quality Of Death\\Quality Of Death\\Quality Of Death.csproj",
-      "projectName": "Quality_Of_Death",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Quality Of Death\\Quality Of Death\\Quality Of Death.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\QualityOfDeath\\QualityOfDeath\\QualityOfDeath.csproj",
+      "projectName": "QualityOfDeath",
+      "projectPath": "C:\\Users\\User\\source\\repos\\QualityOfDeath\\QualityOfDeath\\QualityOfDeath.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Quality Of Death\\Quality Of Death\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\QualityOfDeath\\QualityOfDeath\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
